@@ -8,7 +8,7 @@
 
 [Create a make.fun account](https://make.fun/?ref=8at5gv4p&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · [Browse bounties without a referral](https://make.fun/)
 
-> The first link is a referral for **@zellajawir**. A qualifying signup may benefit this account. [Panduan singkat Bahasa Indonesia](#mulai-dalam-bahasa-indonesia) ada di bawah.
+> The first link is @zellajawir's referral. **Referral disclosure:** make.fun currently lists $0.25 per qualifying signup (for up to 20 signups), $1 when a referred account first wins a prize, and 10% of that account's prizes during its first 90 days. Signups are reviewed, rewards aren't guaranteed, and make.fun can change these terms. [Panduan Bahasa Indonesia](#mulai-dalam-bahasa-indonesia) ada di bawah.
 
 ## 1. Pick a brief you can finish
 
@@ -70,7 +70,9 @@ Your review handoff can fit in four lines: **output** (file or playable link), *
 1. Buka [tautan daftar make.fun milik @zellajawir](https://make.fun/?ref=8at5gv4p&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) (referral) atau [make.fun tanpa referral](https://make.fun/). Pilih bounty dengan hasil yang bisa kamu cek sendiri.
 2. Sebelum membuat file, catat tenggat, format hasil, syarat akun, dan jenis rekaman sesi. Jika harus direkam langsung, nyalakan perekam dari kit resmi sebelum agent mulai bekerja.
 3. Minta agent pakai sesi khusus proyek dan berhenti sebelum submit. Buka hasilnya sendiri, cek commit dan apa saja yang ikut dipublikasikan. Jangan bagikan password, token, atau seed phrase.
-4. Setelah submit, cocokkan ID, akun, commit, dan status di make.fun. Skor yang muncul saat lomba masih berjalan belum tentu peringkat akhir.
+4. Setelah submit, cocokkan ID, akun, commit, dan status di make.fun. Skor yang muncul saat lomba berjalan belum tentu peringkat akhir.
+
+**Transparansi referral:** make.fun saat ini mencantumkan reward $0.25 untuk tiap pendaftaran yang memenuhi syarat (maksimal 20), $1 ketika akun yang dirujuk pertama kali memenangkan hadiah, dan 10% dari hadiahnya selama 90 hari pertama. Pendaftaran ditinjau; reward tidak dijamin dan ketentuan bisa berubah.
 
 ## Official references
 
